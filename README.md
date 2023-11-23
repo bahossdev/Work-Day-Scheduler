@@ -25,8 +25,8 @@ N/A
 
 
 ## Credits
-The starter code is downloaded from:
-To write the JS I have read the solution to class activities, along with resources from MDN, W3School, Stack Overflow, and other similar educational websites.
+The starter code is cloned from: https://github.com/coding-boot-camp/crispy-octo-meme
+To write the script, I have read the solution to class activities, along with resources from MDN, W3School, Stack Overflow, and other similar educational websites.
 
 ## License
 Please refer to the LICENSE file in the repository.
